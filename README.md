@@ -149,7 +149,7 @@ SOFTWARE.
 
 ## Author
 
-Ratnesh Kumar Sharma (GitHub: [@rksiitd](https://github.com/rksiitd))
+Ratnesh Kumar Sharma (GitHub: [@rksiitd1](https://github.com/rksiitd1))
 
 ---
 
